@@ -1,6 +1,6 @@
 # Photo-Sharing-App
 
-**Running instructions:
+Running instructions:
 1. npm install
 2.  npm run build:w
 
